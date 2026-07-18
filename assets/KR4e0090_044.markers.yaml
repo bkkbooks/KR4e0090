@@ -1484,6 +1484,7 @@ markers:
   - {type: line-break, offset: 5110, content: '', id: KR4e0090_WYG_044-17b08}
   - {type: indent, offset: 5110, content: 　　　, id: KR4e0090_krp_044-bkkind31}
   - {type: punctuation, offset: 5116, content: (, id: KR4e0090_krp_044-bkkpn1}
+  - {type: voice, offset: 5116, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 5118, content: /, id: KR4e0090_krp_044-bkkpn2}
   - {type: punctuation, offset: 5118, content: ), id: KR4e0090_krp_044-bkkpn3}
   - {type: 'kr:newline', offset: 5118, content: '
@@ -1616,6 +1617,7 @@ markers:
   - {type: indent, offset: 5440, content: 　　　, id: KR4e0090_krp_044-bkkind36}
   - {type: substitution, offset: 5443, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 5446, content: (, id: KR4e0090_krp_044-bkkpn4}
+  - {type: voice, offset: 5446, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 5448, content: /, id: KR4e0090_krp_044-bkkpn5}
   - {type: punctuation, offset: 5448, content: ), id: KR4e0090_krp_044-bkkpn6}
   - {type: 'kr:newline', offset: 5448, content: '
@@ -1876,6 +1878,7 @@ markers:
   - {type: line-break, offset: 6267, content: '', id: KR4e0090_WYG_044-22a07}
   - {type: indent, offset: 6267, content: 　　　, id: KR4e0090_krp_044-bkkind43}
   - {type: punctuation, offset: 6271, content: (, id: KR4e0090_krp_044-bkkpn7}
+  - {type: voice, offset: 6271, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 6273, content: /, id: KR4e0090_krp_044-bkkpn8}
   - {type: punctuation, offset: 6273, content: ), id: KR4e0090_krp_044-bkkpn9}
   - {type: 'kr:newline', offset: 6273, content: '
@@ -2015,4 +2018,4 @@ markers:
 
       ', id: KR4e0090_krp_044-bkkkrnewl413}
   back: []
-hash: sha256:79050db6ace4c0f3f7a3d16c4b9c4c8d8c3c3c75a6acdaa60cf1e42e1bd9dbb8
+hash: sha256:6f271f0a8f5b12f42731e63c62b75cec76e2a1327c2a2abd00b12cb24bf3ccc0
